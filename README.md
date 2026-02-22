@@ -20,4 +20,4 @@ I am a **Data & AI Engineer** with 2+ years of experience designing and deployin
 
 ### 📫 Connect with me
 - **LinkedIn:** [linkedin.com/in/fadhel-haidar](https://www.linkedin.com/in/fadhel-haidar/)
-- **Portfolio:** [fadhelhaidar.com](http://tinyurl.com/WebPageFadhel)
+- **Portfolio:** [fadhelhaidar.com](https://raspberrypi.tailb158e5.ts.net/WebPageFadhel/)
