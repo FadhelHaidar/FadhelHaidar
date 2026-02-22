@@ -16,8 +16,7 @@ I am a **Data & AI Engineer** with 2+ years of experience designing and deployin
 ### 🎮 Beyond the Code
 - 💎 **Gaming:** Diamond rank player in **Valorant**. Also enjoy **Battlefield** and **Counter-Strike**.
 - ⚔️ **Lore:** Exploring the deep lore of the **Warhammer 40,000** universe.
-- 🎓 **Future:** Preparing for a Master’s degree in **AI and Robotics**.
 
 ### 📫 Connect with me
-- **LinkedIn:** [linkedin.com/in/fadhel-haidar](https://www.linkedin.com/in/fadhel-haidar/)
-- **Portfolio:** [fadhelhaidar.com](https://raspberrypi.tailb158e5.ts.net/WebPageFadhel/)
+- [**LinkedIn**](https://www.linkedin.com/in/fadhel-haidar/)
+- [**Portfolio**](https://raspberrypi.tailb158e5.ts.net/WebPageFadhel/)
